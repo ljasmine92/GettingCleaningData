@@ -1,4 +1,4 @@
-setwd("c:/users/Yugang")
+
 
 #read feature data
 features<-read.table("./UCI HAR Dataset/features.txt")[,2]
